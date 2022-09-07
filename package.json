@@ -4,6 +4,7 @@
   "engines": {
     "node": "16.13.1"
   },
+  "stack": "heroku-22",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.3.1",
