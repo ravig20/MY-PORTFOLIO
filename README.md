@@ -52,14 +52,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![screencapture-ravi-gupta-portfolio-herokuapp-contact-2022-09-08-17_07_42](https://user-images.githubusercontent.com/87094943/189112788-79683c9d-e267-4564-9b6e-cec21b347b17.png)
 
 ### Making a Progressive Web App
+![screencapture-ravi-gupta-portfolio-herokuapp-About-2022-09-08-17_07_08](https://user-images.githubusercontent.com/87094943/189112862-ba0df822-57a0-466a-9fe3-c41ea23126c0.png)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuratio![screencapture-ravi-gupta-portfolio-herokuapp-project-2022-09-08-17_07_23](https://user-images.githubusercontent.com/87094943/189112830-0bd1faa3-c4ef-48ad-8aa5-6379e60b3b10.png)
+n](https://facebook.github.io/create-react-app/docs/advanced-configuration)![screencapture-ravi-gupta-portfolio-herokuapp-2022-09-08-17_06_48](https://user-images.githubusercontent.com/87094943/189112887-8c33412f-a484-431b-b1a6-574c2fd0af01.png)
+
 
 ### Deployment
 
